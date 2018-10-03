@@ -15,7 +15,6 @@ namespace MessageReceiverWebJobs
                  b.AddAzureStorageCoreServices()
                  .AddAzureStorage()
                  .AddServiceBus();
-
              })
 
              .ConfigureLogging((context, b) =>
