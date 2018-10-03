@@ -1,0 +1,10 @@
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\bin\Debug\netcoreapp2.1\MessageReceiverWebJobs.deps.json
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\bin\Debug\netcoreapp2.1\MessageReceiverWebJobs.runtimeconfig.json
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\bin\Debug\netcoreapp2.1\MessageReceiverWebJobs.runtimeconfig.dev.json
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\bin\Debug\netcoreapp2.1\MessageReceiverWebJobs.dll
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\obj\Debug\netcoreapp2.1\MessageReceiverWebJobs.csproj.CoreCompileInputs.cache
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\obj\Debug\netcoreapp2.1\MessageReceiverWebJobs.AssemblyInfoInputs.cache
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\obj\Debug\netcoreapp2.1\MessageReceiverWebJobs.AssemblyInfo.cs
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\bin\Debug\netcoreapp2.1\MessageReceiverWebJobs.pdb
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\obj\Debug\netcoreapp2.1\MessageReceiverWebJobs.dll
+D:\LearningWebJobs\MessageReceiverWebJobs\MessageReceiverWebJobs\obj\Debug\netcoreapp2.1\MessageReceiverWebJobs.pdb
