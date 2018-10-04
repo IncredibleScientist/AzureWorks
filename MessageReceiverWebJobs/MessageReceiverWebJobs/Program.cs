@@ -21,7 +21,10 @@ namespace MessageReceiverWebJobs
              {
                  b.SetMinimumLevel(LogLevel.Debug);
                  b.AddConsole();
+                    var AppInsightsKey = context.Configuration["APPINSIGHTS_INSTRUMENTATIONKEY"];
 
+                  b.AddApplicationInsights(o => o.InstrumentationKey = AppInsightsKey);
+                 
              });
 
             var host = builder.Build();
