@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DocumentDemoDb",
     "\\MessageReceiverWebJobs",
     "\\MessageReceiverWebJobs\\MessageReceiverWebJobs",
     "\\MessageSenderToServiceBus"
   ],
+  "SelectedNode": "\\DocumentDemoDb\\DocumentDemoDb.sln",
   "PreviewInSolutionExplorer": false
 }
