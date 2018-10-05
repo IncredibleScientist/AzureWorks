@@ -5912,11 +5912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DP00557033\\Desktop\\DocumentDemoDb\\DocumentDemoDb\\DocumentDemoDb.csproj",
+      "projectUniqueName": "C:\\Users\\DP00557033\\Source\\Repos\\AzureWorks\\DocumentDemoDb\\DocumentDemoDb\\DocumentDemoDb.csproj",
       "projectName": "DocumentDemoDb",
-      "projectPath": "C:\\Users\\DP00557033\\Desktop\\DocumentDemoDb\\DocumentDemoDb\\DocumentDemoDb.csproj",
+      "projectPath": "C:\\Users\\DP00557033\\Source\\Repos\\AzureWorks\\DocumentDemoDb\\DocumentDemoDb\\DocumentDemoDb.csproj",
       "packagesPath": "C:\\Users\\DP00557033\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DP00557033\\Desktop\\DocumentDemoDb\\DocumentDemoDb\\obj\\",
+      "outputPath": "C:\\Users\\DP00557033\\Source\\Repos\\AzureWorks\\DocumentDemoDb\\DocumentDemoDb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

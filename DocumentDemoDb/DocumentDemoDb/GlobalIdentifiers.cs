@@ -8,10 +8,13 @@ namespace DocumentDemoDb
     public static class GlobalIdentifiers
     {
 
-       
-        public static string EndPoint = Environment.GetEnvironmentVariable("EndPointOfDb");
-        public static string AuthKey = Environment.GetEnvironmentVariable("AuthKey");
-        public static string MyLinkCollection = Environment.GetEnvironmentVariable("MyLinkCollection");
+
+        public static string EndPoint = "<URI obained from portal>";
+        //Environment.GetEnvironmentVariable("EndPointOfDb");
+        public static string AuthKey = "<Primary key from portal>";
+        //Environment.GetEnvironmentVariable("AuthKey");
+        public static string MyLinkCollection = "<dbs/your db name/colls/your coloum name/>";
+            //Environment.GetEnvironmentVariable("MyLinkCollection");
 
     }
 }
