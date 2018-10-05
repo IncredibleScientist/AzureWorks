@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\DocumentDemoDb",
+    "\\DocumentDemoDb\\DocumentDemoDb",
     "\\MessageReceiverWebJobs",
     "\\MessageReceiverWebJobs\\MessageReceiverWebJobs",
     "\\MessageSenderToServiceBus"
   ],
-  "SelectedNode": "\\DocumentDemoDb\\DocumentDemoDb.sln",
+  "SelectedNode": "\\MessageSenderToServiceBus\\MessageSenderToServiceBus.sln",
   "PreviewInSolutionExplorer": false
 }
