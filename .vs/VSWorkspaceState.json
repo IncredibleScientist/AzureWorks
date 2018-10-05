@@ -5,8 +5,9 @@
     "\\DocumentDemoDb\\DocumentDemoDb",
     "\\MessageReceiverWebJobs",
     "\\MessageReceiverWebJobs\\MessageReceiverWebJobs",
-    "\\MessageSenderToServiceBus"
+    "\\MessageSenderToServiceBus",
+    "\\MSGraphs"
   ],
-  "SelectedNode": "\\MessageSenderToServiceBus\\MessageSenderToServiceBus.sln",
+  "SelectedNode": "\\MSGraphs\\MSGraphs.sln",
   "PreviewInSolutionExplorer": false
 }
