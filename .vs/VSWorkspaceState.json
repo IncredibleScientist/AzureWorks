@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MessageReceiverWebJobs",
+    "\\MessageReceiverWebJobs\\MessageReceiverWebJobs",
+    "\\MessageSenderToServiceBus"
+  ],
+  "PreviewInSolutionExplorer": false
+}
