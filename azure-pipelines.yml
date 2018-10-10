@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
 
 pool:
-  vmImage: 'VS2017-Win2016'
+  vmImage: 'VS2017-Win2016','Ubuntu-16.04'
 
 variables:
   solution: '**/*.sln'
@@ -28,3 +28,11 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+    
+    - script: dotnet restore
+    
+    - script: dotnet tool install -g dotnetsay
+- script: dotnetsay
+- task: PublishBuildArtifacts@1
+
+- task: PublishBuildArtifacts@1
